@@ -13,6 +13,12 @@ pinned: false
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on uploaded PDF documents using Groq LLM and semantic search.
 
+## Link for live demo
+
+https://huggingface.co/spaces/jamshaid786/rag-chatbot-jamshaid786
+
+
+
 ## 🚀 Features
 
 - ✅ Multiple PDF upload support
